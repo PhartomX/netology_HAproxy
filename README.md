@@ -29,7 +29,7 @@
 `Cкриншот перенаправления запросов на разные серверы:`
 
 ![img3](https://github.com/PhartomX/netology_HAproxy/blob/main/img/img3.png)
-
+![img4](https://github.com/PhartomX/netology_HAproxy/blob/main/img/img4.png)
 
 ---
 
