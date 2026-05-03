@@ -13,6 +13,7 @@
 
 
 ![img1](https://github.com/PhartomX/netology_HAproxy/blob/main/img/img1.png)
+![img2](https://github.com/PhartomX/netology_HAproxy/blob/main/img/img2.png)
 
 
 ---
