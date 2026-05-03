@@ -8,6 +8,11 @@
 3. Настройте балансировку Round-robin на 4 уровне.
 4. На проверку направьте конфигурационный файл haproxy, скриншоты, где видно перенаправление запросов на разные серверы при обращении к HAProxy.
 
+`Ссылка на конфигурационный файл haproxy`
+
+    haproxy_1.cfg 
+![haproxy_1](https://github.com/PhartomX/netology_HAproxy/blob/main/haproxy_1.cfg)
+
 
 `Cкриншот перенаправления запросов на разные серверы:`
 
@@ -26,11 +31,12 @@
 4. На проверку направьте конфигурационный файл haproxy, скриншоты, где видно перенаправление запросов на разные серверы при обращении к HAProxy c использованием домена example.local и без него.
 
 
+
 `Cкриншот перенаправления запросов на разные серверы:`
 
 ![img3](https://github.com/PhartomX/netology_HAproxy/blob/main/img/img3.png)
 ![img4](https://github.com/PhartomX/netology_HAproxy/blob/main/img/img4.png)
-![haproxy_1](https://github.com/PhartomX/netology_HAproxy/blob/main/haproxy_1.cfg)
+
 
 ---
 
