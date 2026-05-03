@@ -10,8 +10,7 @@
 
 `Ссылка на конфигурационный файл haproxy`
 
-    haproxy_1.cfg 
-![haproxy_1](https://github.com/PhartomX/netology_HAproxy/blob/main/haproxy_1.cfg)
+   haproxy_1.cfg ![haproxy_1](https://github.com/PhartomX/netology_HAproxy/blob/main/haproxy_1.cfg)
 
 
 `Cкриншот перенаправления запросов на разные серверы:`
